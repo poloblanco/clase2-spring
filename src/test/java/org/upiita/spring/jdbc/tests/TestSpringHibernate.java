@@ -20,7 +20,8 @@ public class TestSpringHibernate {
 		//Consulta
 		List <Usuario> usuarios = usuarioDAO.obtenPorNombre("Juan");
 		System.out.println("USUARIO:"+ usuarios);
-
+		
+		//ASASASASASASASAASGIIIIITTTTTT
 	}
 
 }
